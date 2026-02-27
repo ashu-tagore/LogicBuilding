@@ -11,18 +11,18 @@ This repository contains solutions to 182 Python problems, carefully categorized
 
 ## Problem Categories
 
-| Section | Topic | Problems | Status |
-|---------|-------|----------|--------|
-| A | [Basics & Arithmetic](Section_A_Basics.ipynb) | 15 | ✅ Ready |
-| B | [Conditionals & Logic](Section_B_Conditionals.ipynb) | 20 | ✅ Ready |
-| C | [Loops & Iterations](Section_C_Loops.ipynb) | 25 | ✅ Ready |
-| D | [Pattern Printing](Section_D_Patterns.ipynb) | 15 | ✅ Ready |
-| E | [Strings](Section_E_Strings.ipynb) | 25 | ✅ Ready |
-| F | [Lists/Arrays](Section_F_Lists.ipynb) | 30 | ✅ Ready |
-| G | [Dictionaries](Section_G_Dictionaries.ipynb) | 15 | ✅ Ready |
-| H | [Functions](Section_H_Functions.ipynb) | 15 | ✅ Ready |
-| I | [Recursion](Section_I_Recursion.ipynb) | 12 | ✅ Ready |
-| J | [Mixed Challenges](Section_J_Mixed.ipynb) | 10 | ✅ Ready |
+| Section | Topic |
+|---------|-------|
+| A | [Basics & Arithmetic](Section_A_Basics.ipynb) |
+| B | [Conditionals & Logic](Section_B_Conditionals.ipynb) |
+| C | [Loops & Iterations](Section_C_Loops.ipynb) |
+| D | [Pattern Printing](Section_D_Patterns.ipynb) |
+| E | [Strings](Section_E_Strings.ipynb) |
+| F | [Lists/Arrays](Section_F_Lists.ipynb) |
+| G | [Dictionaries](Section_G_Dictionaries.ipynb) |
+| H | [Functions](Section_H_Functions.ipynb) |
+| I | [Recursion](Section_I_Recursion.ipynb) |
+| J | [Mixed Challenges](Section_J_Mixed.ipynb) |
 
 ## 🚀 Quick Start
 
